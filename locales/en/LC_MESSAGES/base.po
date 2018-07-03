@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-07-03 12:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: bot.py:31
+msgid "Open a pull request"
+msgstr "Open a pull request"
+
+#: bot.py:32
+msgid "Enter in the official bot's group"
+msgstr "Enter in the official bot's group"
+
+#: bot.py:33
+msgid "Contact the delevoper"
+msgstr "Contact the delevoper"
+
+#: bot.py:35
+msgid "Hi! This bot is in development. if you want to help, you can open a pull request in the GitHub's repo."
+msgstr "Hi! This bot is in development. if you want to help, you can open a pull request in the GitHub's repo."
+
+#: bot.py:78
+msgid "Done!"
+msgstr "Done!"
+
